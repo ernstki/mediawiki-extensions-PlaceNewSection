@@ -1,5 +1,10 @@
 # Extension:PlaceNewSection
 
+> [!IMPORTANT]  
+> Development of this extension has [moved to Gerrit](https://gerrit.wikimedia.org/g/mediawiki/extensions/PlaceNewSection), with a mirror at [wikimedia/mediawiki-extensions-PlaceNewSection](https://github.com/wikimedia/mediawiki-extensions-PlaceNewSection).
+>
+> Please see https://phabricator.wikimedia.org/T351776 for details.
+
 This extension introduces two magic words, `__ADDNEWSECTIONBELOW__` and
 `__ADDNEWSECTIONABOVE__`, which control placement of new Talk: page sections. 
 
